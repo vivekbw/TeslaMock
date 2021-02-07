@@ -1,3 +1,5 @@
-This is my first ReactNative project.
+This is my first ReactNative application. 
 
-Followed a YouTube tutorial by Vadim Savin to develop a tesla mockup
+It is a frontend mockup of Tesla's mobile app.  
+
+Followed a YouTube tutorial by Vadim Savin.
